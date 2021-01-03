@@ -1,0 +1,28 @@
+raw_sequence: "data/PF00144_full.txt"
+parsed_sequence: "data/parsed_sequence.yaml"
+generated_sequence: "data/generated_sequences.yaml"
+
+output_model: "models/contrastive_divergence.pickle"
+
+amino_acids:
+  - A
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  - I
+  - K
+  - L
+  - M
+  - N
+  - P
+  - Q
+  - R
+  - S
+  - T
+  - V
+  - W
+  - Y
+  - '-'

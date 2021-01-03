@@ -1,4 +1,4 @@
-# ebm_proteins
+# Prediction of the Pathogenicity of Genetic Mutations with Energy-based Models
 
 ## Introduction
 
